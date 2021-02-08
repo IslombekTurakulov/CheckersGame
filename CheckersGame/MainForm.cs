@@ -5,6 +5,7 @@ using System.Windows.Forms;
 
 namespace CheckersGame
 {
+    // .NET Framework
     public partial class MainForm : Form
     {
         const int MapSize = 15;
